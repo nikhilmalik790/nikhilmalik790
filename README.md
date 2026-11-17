@@ -1,81 +1,117 @@
-# 👋 Hi, I'm Nikhil Malik
 
-### 💻 Web Developer | Frontend Developer | Problem Solver
+<div align="center">
 
-I enjoy building responsive web applications, creating user-friendly interfaces, and turning ideas into practical digital solutions.
+# Hi, I'm Nikhil Malik 👋
 
-I'm passionate about learning new technologies, improving my development skills, and building projects that solve real-world problems.
+### Web Developer | Exploring GenAI | Mixpanel User Analytics | Exploring WebEngage | Always Learning & Building.
 
-- 🔭 Working on web development and practical projects
-- 🌱 Exploring modern frontend technologies and backend development
-- 💡 Interested in AI-powered applications and software development
-- ⚡ Focused on writing clean, maintainable, and efficient code
-- 🎯 Always learning, building, and improving
+Building responsive websites and exploring new technologies.
+
+
+<a href="https://github.com/nikhilmalik790">
+<img src="https://skillicons.dev/icons?i=github" width="38"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nikhil-malik-41ba5a327">
+<img src="https://skillicons.dev/icons?i=linkedin" width="38"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:nikhilmalik790@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="38"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+---
+
+
+## 👨‍💻 About Me
+
+Hi, I'm **Nikhil Malik** — a Web Developer passionate about building meaningful digital experiences and exploring emerging technologies.
+
+- 💻 Interested in developing modern, responsive, and user-friendly web applications.
+- 🤖 Exploring **Generative AI** and its real-world applications in web development.
+- 📊 Using **Mixpanel** to understand user behavior, track events, and analyze product performance.
+- 📈 Exploring **WebEngage** to learn about user engagement, retention, and customer journeys.
+- 🚀 Always curious about new technologies, solving problems, and building practical solutions.
+- 🌱 Believe in continuous learning, experimentation, and improving every day.
+
+**My goal:** Build better digital experiences by combining development, AI, and data-driven insights.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+<div align="center">
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,react,nextjs](https://skillicons.dev/icons?i=html,css,js,react,nextjs)" /> \</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 
-### Backend Development
+### Backend
+<img src="https://skillicons.dev/icons?i=python,django" />
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,django](https://skillicons.dev/icons?i=python,django)" />
-\</p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### Tools & Platforms
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" /> \</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-### 1. BikeZone
-
-A Django-based web application for exploring bike brands and models, featuring user registration, login, and bike details.
-
-🔗 [View Project](https://github.com/nikhilmalik790/bike_app)
-
-### 2. HelpHub
-
-A Python/Django project organized around accounts, tickets, categories, and support-related functionality.
-
-🔗 [View Project](https://github.com/nikhilmalik790/Helphub)
-
-### 3. WatchX – Movie Recommendation
-
-A movie recommendation project built with Python/Django.
-
-🔗 [View Project](https://github.com/nikhilmalik790/MovieRecommendation-WatchX)
-
-### 4. Deep Learning
-
-A collection of Jupyter notebooks exploring deep learning concepts.
-
-🔗 [View Project](https://github.com/nikhilmalik790/deep_learning)
+| Project | Description | Repository |
+|---|---|---|
+| 🚲 Bike App | Bike-related web project | [View Project](https://github.com/nikhilmalik790/bike_app) |
+| 🤝 HelpHub | Support-oriented project | [View Project](https://github.com/nikhilmalik790/Helphub) |
+| 🎬 WatchX | Movie recommendation project | [View Project](https://github.com/nikhilmalik790/MovieRecommendation-WatchX) |
+| 🧠 Deep Learning | Deep learning experiments | [View Project](https://github.com/nikhilmalik790/deep_learning) |
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=nikhilmalik790&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=nikhilmalik790\&show_icons=true\&theme=tokyonight\&hide_border=true)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmalik790&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmalik790\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+<div align="center">
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=nikhilmalik790&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=nikhilmalik790\&theme=tokyonight\&hide_border=true)" /> \</p>
+<img src="https://streak-stats.demolab.com?user=nikhilmalik790&theme=tokyonight&hide_border=true" />
 
----
-
-## 🌐 Connect With Me
-
-\<p align="left">   \<a href="[https://github.com/nikhilmalik790](https://github.com/nikhilmalik790)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/nikhil-malik-41ba5a327](https://www.linkedin.com/in/nikhil-malik-41ba5a327)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:nikhilmalik790\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+</div>
 
 ---
 
-\<p align="center">
-&#x20; \<b>💻 Build. Learn. Create. Repeat.\</b>
-&#x20; \<br/>
-&#x20; Thanks for visiting my GitHub profile!
-\</p>
+## 🤝 Let's Connect
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="160">
+<a href="https://github.com/nikhilmalik790">
+<img src="https://skillicons.dev/icons?i=github" width="38"/><br/>
+<b>Explore Projects</b><br/>
+</a>
+</td>
+<td align="center" width="160">
+<a href="https://www.linkedin.com/in/nikhil-malik-41ba5a327">
+<img src="https://skillicons.dev/icons?i=linkedin" width="38"/><br/>
+<b>Connect</b><br/>
+</a>
+</td>
+<td align="center" width="160">
+<a href="mailto:nikhilmalik790@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="38"/><br/>
+<b>Say Hello →</b><br/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn • Build • Improve • Repeat
+
+</div>
