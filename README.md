@@ -3,10 +3,14 @@
 
 # Hi, I'm Nikhil Malik 👋
 
-### Web Developer | Exploring GenAI | Mixpanel User Analytics | Exploring WebEngage | Always Learning & Building.
+### Web Developer | Product Analytics | Exploring GenAI | Exploring WebEngage 
 
 Building responsive websites and exploring new technologies.
 
+<a href="https://github.com/nikhilmalik790">
+<img src="https://skillicons.dev/icons?i=github" width="38"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/nikhilmalik790">
 <img src="https://skillicons.dev/icons?i=github" width="38"/>
