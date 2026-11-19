@@ -66,14 +66,25 @@ Hi, I'm **Nikhil Malik** — a Web Developer passionate about building meaningfu
 
 ## 🚀 My Projects
 
-| Project | Description | Repository |
-|---|---|---|
-| 🚲 Bike App | Bike-related web project | [View Project](https://github.com/nikhilmalik790/bike_app) |
-| 🤝 HelpHub | Support-oriented project | [View Project](https://github.com/nikhilmalik790/Helphub) |
-| 🎬 WatchX | Movie recommendation project | [View Project](https://github.com/nikhilmalik790/MovieRecommendation-WatchX) |
-| 🧠 Deep Learning | Deep learning experiments | [View Project](https://github.com/nikhilmalik790/deep_learning) |
+<div align="center">
 
----
+<a href="https://github.com/nikhilmalik790/bike_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilmalik790&repo=bike_app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/nikhilmalik790/Helphub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilmalik790&repo=Helphub&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/nikhilmalik790/MovieRecommendation-WatchX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilmalik790&repo=MovieRecommendation-WatchX&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/nikhilmalik790/deep_learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilmalik790&repo=deep_learning&theme=tokyonight" />
+</a>
+
+</div>
 
 ## 📊 GitHub Statistics
 
