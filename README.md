@@ -7,10 +7,10 @@
 
 Building responsive websites and exploring new technologies.
 
-<!-- <a href="https://github.com/nikhilmalik790">
+<a href="https://my-portfolio-ten-ashy-30.vercel.app/">
 <img src="https://api.iconify.design/lucide/user-round.svg?color=%23A78BFA&utm_source=chatgpt.com" width="36"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <a href="https://github.com/nikhilmalik790">
 <img src="https://skillicons.dev/icons?i=github" width="38"/>
